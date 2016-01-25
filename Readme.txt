@@ -13,7 +13,7 @@ Sample code:
 	  
 	  folders_type  Folders;
 	  
-	  imap.listFolder("", Folders);
+	  imap.listFolders("", Folders);
 	  
 	  for (auto f: Folders)
 	  {
