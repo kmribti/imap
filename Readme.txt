@@ -1,5 +1,6 @@
 IMAP client implmentation using Poco C++ framework, work are in progress but the code are quite usable for basic operations.
 
+This code has been tested only with VS2015 build type.
 
 Sample code:
 
